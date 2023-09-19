@@ -54,11 +54,9 @@ Plug the hard drive's SATA cable into the SATA slot on the motherboard.
 
 
 Connect the power supply to any necessary components. If the power supply is not connected to components which need power, make sure that it is connected to the following locations:
-1.Motherboard
-
-2.Graphics card(s)
-
-3.Hard drive(s)
+* Motherboard
+* Graphics card(s)
+* Hard drive(s)
 
 
 Finish the computer assembly.
